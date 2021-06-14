@@ -1,0 +1,14 @@
+{
+  "name": "PaaS TG_SB" ,
+  "description": "PaaS TG_SB" ,
+  "keywords": ["PaaS" , "TGSB"] ,
+  "website": "" ,
+  "repository": "https://github.com/DevRush94/CloneBot" ,
+  "stack": "container" ,
+  "formation": {
+    "worker": {
+      "quantity": 1 ,
+      "size": "free"
+    }
+  }
+}
